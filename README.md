@@ -1,0 +1,1 @@
+This is a project where i will build a functioning basic calculator, according to 'The Odin Project' and thus, i will follow there assignment, found on https://www.theodinproject.com/lessons/calculator
